@@ -1,0 +1,2 @@
+- 몽고디비실행
+mongod --dbpath D:/2017/PersonalProject/crawler/mongodb/database/local
